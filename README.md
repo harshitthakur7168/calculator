@@ -6,7 +6,7 @@ This tutorial is about making arduino calculator. We will build two digit arduin
 **Arduino calculator project requirements**
 
 
-1)Arduino uno     (Microcontroller)
+1)Arduino uno     (Microcontroller) \n
 2)4×4 Keypad      (Taking input from Users)
 3)16×2 Lcd        (Displays Result)
 4)Potentiometer   (Setting Lcd Contrast)
